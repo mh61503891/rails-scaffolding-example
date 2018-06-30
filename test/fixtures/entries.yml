@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  a: MyString
+  b: MyText
+  c: 1
+  d: 
+  e: 1.5
+  f: 9.99
+  g: 
+  h: 2018-06-30 18:51:35
+  i: 2018-06-30 18:51:35
+  j: 2018-06-30
+  k: 
+  l: false
+
+two:
+  a: MyString
+  b: MyText
+  c: 1
+  d: 
+  e: 1.5
+  f: 9.99
+  g: 
+  h: 2018-06-30 18:51:35
+  i: 2018-06-30 18:51:35
+  j: 2018-06-30
+  k: 
+  l: false
